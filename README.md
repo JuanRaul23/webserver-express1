@@ -1,4 +1,4 @@
-## Código fuente de nuestr aplicación
+## Código fuente de nuestra aplicación
 
 ```
 npm install
